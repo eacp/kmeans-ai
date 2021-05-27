@@ -20,3 +20,17 @@ The application frontend was deployed to AWS Amplify. The backend was deployed t
 
 [Information about the interface](https://github.com/eacp/kmeans-ai/tree/main/WebFront)
 [Information about the api](https://github.com/eacp/kmeans-ai/tree/main/Itesm.BasicAI.Rest)
+
+
+# Usage
+
+![usage](https://user-images.githubusercontent.com/13637639/119901991-3edb3c00-bf0c-11eb-99cc-b1f5971c3f0c.png)
+
+
+Paste your CSV data in the in the TEXT field
+
+Specify your K
+
+Specify if you want to use headers or not
+
+Hit run

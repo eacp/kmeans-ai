@@ -11,6 +11,7 @@ run automatically inside Visual Studio and Visual Studio Code, thus increasing d
 
 ## Structure
 
-There are 2 C# files in this folder, both are labeled as `[TestClass]` in the code. One tests the implementation of vector and
+There are 3 C# files in this folder, both are labeled as `[TestClass]` in the code. One tests the implementation of vector and
 euclidean operations to compute and compare distances, while the other one tests the clustering algorithm and the behavious of the clusters.
 
+There is a file to test the behavious of the API server. It tests it can read the queries sent by the client application written in Svelte.
